@@ -1,15 +1,16 @@
 /* 
     Kolayca kullanmak için renk paletini buraya not alıyorum.
-    Arka plan rengi: 323031
-    Başlıklar: e28413
-    İçerik: fcf7f8
+    Arka plan rengi: 264653
+    Başlıklar: 2A9D8F
+    İçerik: F4A261
+    Diğer Renkler: E9C46A, E76F51
 */
 
 body{
-    background-color: rgb(50, 48, 49);
-    color: #fcf7f8;
+    background-color: rgb(38, 70, 83);
+    color: #F4A261;
 }
 
 .baslik{
-    color: #e28413;
+    color: #2A9D8F;
 }
